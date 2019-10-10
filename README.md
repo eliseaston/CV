@@ -28,7 +28,7 @@ Some of my favourite projects that I have managed include setting up and remotel
 
 #### Tsuzuki Scholarship, 日本経済大学 Japan University of Economics, Fukuoka (2012 to 2013)
 
-- Intensive course in Japanese language and culture
+- One of five students chosen to study an intensive course in Japanese language and culture
 
 
 #### St Anne's College, Oxford University (2008 to 2012)
@@ -56,7 +56,7 @@ Intermediate certificate in Adobe InDesign
 
 **St. Luke's Hospice, Cheshire** (September 2013 to October 2014)   
 *Donor Developer Officer and Database Administrator*  
-- I quickly learnt to 
+-  
 
 ## Hobbies
 
