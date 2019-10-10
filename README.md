@@ -52,11 +52,11 @@ Intermediate certificate in Adobe InDesign
 
 **CARE International UK** (November 2014 to August 2019)    
 *Senior Lendwithcare Executive*  
-- As a key part of the innovative Lendwithcare.org microfinance project, I worked closely with the web developer and am very experienced in explaining and understanding client's needs! 
+- ? 
 
-**St. Luke's Hospice, Cheshire** (September 2013 to October 2014)   
+**St Luke's (Cheshire) Hospice** (September 2013 to October 2014)    
 *Donor Developer Officer and Database Administrator*  
--  
+- ?
 
 ## Hobbies
 
