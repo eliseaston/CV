@@ -45,8 +45,7 @@ Some of my favourite projects that I have managed include setting up and remotel
 
 #### Any other qualifications
 
-Intermediate certificate in Adobe Photoshop
-Intermediate certificate in Adobe InDesign
+Intermediate certificates in Adobe Photoshop and Adobe InDesign
 
 ## Experience
 
