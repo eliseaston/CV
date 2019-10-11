@@ -10,7 +10,7 @@ With no previous experience in databases, I joined St Luke's Hospice as the sole
 
 #### Excellent communicator
 
-I have a wide range of both verbal and written communication skills, and enjoy connecting with people. From delivering presentations about microfinance in the developing world to Rotary Clubs and university students, to teaching English to reluctant children in Spain and over-enthusiastic adults in Japan, I am well-experienced in explaining complex concepts to non-expert audiences. In my roles at CARE International and St. Luke's Hospice, I was responsible for composing and sending digital and written communications to the charities' supporters updates of the work, thank you messages, and fundraising asks. In summer 2019 I spearheaded an appeal that exceeded its fundraising target by 100%, raising over £100,000.
+I enjoy connecting with people through my wide range of verbal and written communication skills. From delivering presentations about microfinance in the developing world to Rotary Clubs and university students, to teaching English to reluctant children in Spain and over-enthusiastic adults in Japan, I am well-experienced in explaining complex concepts to non-expert audiences. In my roles at CARE International and St. Luke's Hospice, I was responsible for composing and sending digital and written communications to the charities' supporters updates of the work, thank you messages, and fundraising asks. In summer 2019 I spearheaded an appeal that exceeded its fundraising target by 100%, raising over £100,000.
 
 #### Account management
 
