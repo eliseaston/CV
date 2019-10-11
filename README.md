@@ -58,7 +58,7 @@ Intermediate certificates in Adobe Photoshop and Adobe InDesign
 ## Experience
 
 **CARE International UK**   
-*Senior Lendwithcare Executive (October 2015 to August 2019)*
+*Senior Lendwithcare Executive (October 2015 to August 2019)* /n
 *Supporter Care Officer (November 2014 to October 2015)*
 - I was an integral part of a team of 4 working on the innovative Lendwithcare.org project
 - I led on all communications, particularly updates and fundraising appeals through email and social media.
