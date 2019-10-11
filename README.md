@@ -78,4 +78,4 @@ Intermediate certificates in Adobe Photoshop and Adobe InDesign
 - Music (grade 8 piano, grade 4 drumkit. Currently attempting to learn the melodeon, much to the joy of my flatmates)
 - Knitting (I recently set up an Etsy store and even made an online sale. So if the coding doesn't work out at least I have a back-up)
 - Running (Saturday morning parkrun makes me feel better about Saturday morning brunch)
-- Puns (Co-founder and alumni member of the weekly Formula Pun competition at CARE International)
+- Puns (Co-founder and two-time winner of the weekly Formula Pun competition at CARE International)
