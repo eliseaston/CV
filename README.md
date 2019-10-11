@@ -14,7 +14,7 @@ I enjoy connecting with people through my wide range of verbal and written commu
 
 #### Account management
 
-At CARE International I was responsible for providing excellent client-facing service. This involved managing corporate Lendwithcare accounts, including adding and distributing funds on corporate partners' behalf, and providing them with reports on their support, and answering any public enquiries. As part of the small team working on the innovative Lendwithcare.org platform, I worked closely with the developers and so well understand the perspective of explaining the needs of a client! I am excited about seeing this working relationship from the other side, and translating a client's needs into deliverable programs.
+At CARE International I was responsible for providing excellent client-facing service. This involved managing corporate Lendwithcare accounts, including adding and distributing funds on corporate partners' behalf, providing them with reports on their support, and answering any public enquiries. As part of the small team working on the innovative Lendwithcare.org platform, I worked closely with the developers, so I well understand the perspective of explaining the needs of a client!
 
 #### Project management
 
