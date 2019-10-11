@@ -61,11 +61,11 @@ Intermediate certificates in Adobe Photoshop and Adobe InDesign
 *Senior Lendwithcare Executive (October 2015 to August 2019)*
 *Supporter Care Officer (November 2014 to October 2015)*
 - I was an integral part of a team of 4 working on the innovative Lendwithcare.org project
-- I led on all communications for the charity, particularly updates and fundraising appeals through email and social media.
-- I managed accounts on behalf of our corporate partners, adding and distributing funding on their behalf and responding to any enquiries.
+- I led on all communications, particularly updates and fundraising appeals through email and social media.
+- I managed corporate partner accounts, adding and distributing funding on their behalf and responding to any enquiries.
 - I created and remotely managed a national network of volunteers to raise awareness and funds for the charity in their local communities
 - I compiled and analysed complex reports on a monthly and quarterly basis, and processed large numbers of withdrawal transactions through Paypal
-- I delivered presentations about the charity's work and the role of microfinance in the developing world to diverse external audiences
+- I delivered presentations about the charity and the role of microfinance in the developing world to diverse external audiences
 
 **St Luke's (Cheshire) Hospice** (September 2013 to October 2014)    
 *Donor Developer Officer and Database Administrator*  
