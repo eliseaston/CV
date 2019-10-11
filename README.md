@@ -51,7 +51,7 @@ I have lived and worked abroad twice, teaching English at a secondary school in 
 - Grade A in all AS and A level exams (Maths, Spanish, French, Music)
 - 8 A* and 2 A grades at GCSEs
 
-#### Any other qualifications
+#### Other qualifications
 
 Intermediate certificates in Adobe Photoshop and Adobe InDesign
 
@@ -77,5 +77,5 @@ Intermediate certificates in Adobe Photoshop and Adobe InDesign
 
 - Music (grade 8 piano, grade 4 drumkit. Currently attempting to learn the melodeon, much to the joy of my flatmates)
 - Knitting (I recently set up an Etsy store and even made an online sale. So if the coding doesn't work out at least I have a back-up)
-- Running (Saturday morning Park Run makes me feel better about Saturday morning brunch)
+- Running (Saturday morning parkrun makes me feel better about Saturday morning brunch)
 - Puns (Co-founder and alumni member of the weekly Formula Pun competition at CARE International)
