@@ -1,6 +1,6 @@
 ## Elise Aston
 
-Linguist turned junior full-stack software engineer (proof that I can talk to both humans and computers). Recent graduate from one of the most discerning coding bootcamps, with 6 years' experience of data, marketing, and digital communication in the charity sector. I'm looking to join a team I can contribute to and learn from, in an organisation that I'm proud to be part of.
+Linguist turned junior full-stack software engineer (proof that I can talk to both humans and computers). I am passionate about creating elegant and test-driven code in an agile manner. I bring a diverse combination of skills from 6 years' experience of data, marketing, and digital communication in the charity sector. I'm looking to join a team I can contribute to and learn from, in an organisation that I'm proud to be part of.
 
 ## Skills
 
