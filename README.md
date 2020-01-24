@@ -6,7 +6,7 @@ Linguist turned junior full-stack software engineer (proof that I can talk to bo
 
 | Title | Description | Technologies |
 | --- | --- | --- |
-| [RouteAround (front-end)](https://github.com/eliseaston/Route_Around_Front-end) <br> [RouteAround (back-end)](https://github.com/eliseaston/Route_Around) | An app that maps a circular running or walking route, based on the user's current location or chosen start location, and their chosen distance. <br> Final group project at Makers, designed, created and deployed within 2 weeks. <br>  We chose to create a RESTful app with separate front and back-ends. <br> https://routearound.herokuapp.com/ | React, Node.js Express, JavaScript, Jasmine, Jest, Travis, Heroku |
+| [RouteAround (front-end)](https://github.com/eliseaston/Route_Around_Front-end) <br> [RouteAround (back-end)](https://github.com/eliseaston/Route_Around) | An app that maps a circular running or walking route, based on the user's current location or chosen start location, and their chosen distance. <br><br> Final group project at Makers. Designed, created and deployed within 2 weeks. <br><br>  https://routearound.herokuapp.com/ | React, Node.js Express, JavaScript, Jasmine, Jest, Travis, Heroku |
 | PartyDino BnB | --- | --- |
 | Bowling challenge | --- | --- |
 | Rock Paper Scissors | --- | --- |
