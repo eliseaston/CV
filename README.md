@@ -6,19 +6,19 @@ Linguist turned junior full-stack software engineer (proof that I can talk to bo
 
 #### Data handling and analysis
 
-With no previous experience in databases, I joined St Luke's Hospice as the sole (and somewhat daunted) Database Administrator, and quickly became adept (often self-taught) in using Blackbaud's SQL-based database Raiser's Edge. A year later I joined the database team at CARE International UK where, due to a long period of understaffing, I was often solely responsible for inputting, importing and running queries and reports on significant quantities of data. Upon changing teams at CARE, I continued to produce complex reports and analysis, building tools to optimise this data management and teaching my colleagues how to use them. I was also responsible for processing large numbers of withdrawal transactions through Paypal.
+With no previous experience in databases, I joined St Luke's Hospice as the sole (and somewhat daunted) Database Administrator. Largely self-taught, I quickly became adept in using Blackbaud's SQL-based database Raiser's Edge. A year later I joined the database team at CARE International UK where I was often solely responsible for inputting, importing and running queries and reports on significant quantities of data. During my 6 years at CARE I continued to produce complex reports and analysis, building tools to optimise this data management and teaching my colleagues how to use them. I was also responsible for processing large numbers of transactions through Paypal.
 
 #### Excellent communicator
 
-I enjoy connecting with people through my wide range of verbal and written communication skills. From delivering presentations about microfinance in the developing world to Rotary Clubs and university students, to teaching English to reluctant children in Spain and over-enthusiastic adults in Japan, I am well-experienced in explaining complex concepts to non-expert audiences. In my roles at CARE International and St. Luke's Hospice, I was responsible for composing and sending digital and written communications to the charities' supporters, including updates of the work, thank you messages, and fundraising asks. In summer 2019 I spearheaded an appeal that exceeded its fundraising target by 100%, raising over £100,000.
+I love using my verbal and written communication skills to connect with people. From delivering presentations about microfinance in the developing world to Rotary Clubs and university students, to teaching English to reluctant children in Spain and over-enthusiastic adults in Japan, I am well-experienced in explaining complex concepts to non-expert audiences. At both CARE International and St. Luke's Hospice I was responsible for composing and sending digital and written communications to the charities' supporters, including updates of the work, thank you messages, and fundraising asks. In summer 2019 I spearheaded an appeal that exceeded its fundraising target by 100%, raising over £100,000.
 
 #### Account management
 
-At CARE International I was responsible for providing excellent client-facing service. This involved managing corporate Lendwithcare accounts, including adding and distributing funds on corporate partners' behalf, providing them with reports on their support, and answering any public enquiries. As part of the small team working on the innovative Lendwithcare.org platform, I worked closely with the developers, so I well understand the perspective of explaining the needs of a client!
+At CARE International I used my interpersonal skills to provide excellent client-facing service. This involved managing corporate Lendwithcare accounts, including adding and distributing funds on corporate partners' behalf, providing them with reports on their support, and answering any public enquiries. As part of the small team working on the innovative Lendwithcare.org platform, I worked closely with the developers, so thanks to my experience and empathy I can well understand user stories from the perspective of both the client and the developer!
 
 #### Project management
 
-In my role at Lendwithcare I set up and remotely managed a national network of nearly 50 volunteers, facilitating them to promote and explain the charity's work in their local communities. This led to an increase in supporters for the charity, and increased engagement among the volunteers. In November 2018 I led a film crew to Zambia to direct a fundraising video to promote the charity's work (https://www.youtube.com/watch?v=_HeWSX-K-Uk). As Donor Development Officer at St. Luke's Hospice I created a donation webpage that enabled supporters to set up a regular direct debit donation online.
+As Senior Lendwithcare Executive I used my interpersonal and leadership skills to set up and remotely managed a national network of nearly 50 volunteers, facilitating them to promote and explain the charity's work in their local communities. This led to an increase in supporters for the charity, and increased engagement among the volunteers. In November 2018 I led a film crew to Zambia to direct a fundraising video to promote the charity's work (https://www.youtube.com/watch?v=_HeWSX-K-Uk). As Donor Development Officer at St. Luke's Hospice I created a donation webpage that enabled supporters to set up a regular direct debit donation online.
 
 #### Motivated self-starter
 
@@ -28,10 +28,14 @@ I have lived and worked abroad twice, teaching English at a secondary school in 
 
 #### Makers Academy (September 2019 - January 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Immersive 12 week full-time software development course, focusing on test driven development, pair programming and Agile practices.
+
+Technologies used:
+* Front End: React, HTML, CSS, Bootstrap, Javascript, jQuery
+* Back End: Ruby, Rails, Sinatra, Node JS
+* Databases & ORM's: PostgreSQL, SQL, DataMapper
+* Testing: RSpec, Capybara, Jasmine, Jest, Circle CI, Travis
+* Other: APIs, Git, AJAX, REST, OOP
 
 
 #### Tsuzuki Scholarship, 日本経済大学 Japan University of Economics, Fukuoka (2012 to 2013)
@@ -58,20 +62,23 @@ Intermediate certificates in Adobe Photoshop and Adobe InDesign
 ## Experience
 
 **CARE International UK**   
-*Senior Lendwithcare Executive (October 2015 to August 2019)* <br>
+*Senior Lendwithcare Executive (October 2015 to January 2020)* <br>
 *Supporter Care Officer (November 2014 to October 2015)*
-- I was an integral part of a team of 4 working on the innovative Lendwithcare.org project
-- I led on all communications, particularly updates and fundraising appeals through email and social media.
-- I managed corporate partner accounts, adding and distributing funding on their behalf and responding to any enquiries.
-- I created and remotely managed a national network of volunteers to raise awareness and funds for the charity in their local communities
-- I compiled and analysed complex reports on a monthly and quarterly basis, and processed large numbers of withdrawal transactions through Paypal
-- I delivered presentations about the charity and the role of microfinance in the developing world to diverse external audiences
+- Integral part of a team of 4 working on the innovative Lendwithcare.org project
+- Led on all communications, particularly updates and fundraising appeals through email and social media.
+- Managed corporate partner accounts, adding and distributing funding on their behalf and responding to any enquiries.
+- Created and remotely managed a national network of volunteers to raise awareness and funds for the charity in their local communities
+- Compiled and analysed complex reports on a monthly and quarterly basis, and processed large numbers of withdrawal transactions through Paypal
+- Delivered presentations about the charity and the role of microfinance in the developing world to diverse external audiences
 
 **St Luke's (Cheshire) Hospice** (September 2013 to October 2014)    
 *Donor Developer Officer and Database Administrator*  
-- I was solely responsible for inputting supporter and donation data
-- I delivered reports to the Finance team and other stakeholders
-- I received donations in person from supporters and sent personal communications to acknowledge their support
+- Solely responsible for inputting supporter and donation data
+- Delivered reports to the Finance team and other stakeholders
+- Received donations in person from supporters and sent personal communications to acknowledge their support
+
+**English language teacher** (2010 to 2011 and 2012 to 2013)
+- Taught English as a foreign language at a secondary school in Granada, Spain and several language schools in Fukuoka, Japan.
 
 ## Hobbies
 
