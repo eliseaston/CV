@@ -26,7 +26,7 @@ At CARE International I used my interpersonal skills to provide excellent client
 
 #### Project management
 
-As Senior Lendwithcare Executive I used my interpersonal and leadership skills to set up and remotely managed a national network of nearly 50 volunteers, facilitating them to promote and explain the charity's work in their local communities. This led to an increase in supporters for the charity, and increased engagement among the volunteers. In November 2018 I led a film crew to Zambia to direct a fundraising video to promote the charity's work (https://www.youtube.com/watch?v=_HeWSX-K-Uk). As Donor Development Officer at St. Luke's Hospice I created a donation webpage that enabled supporters to set up a regular direct debit donation online.
+As Senior Lendwithcare Executive I used my interpersonal and leadership skills to set up and remotely managed a national network of nearly 50 volunteers, facilitating them to promote and explain the charity's work in their local communities. This led to an increase in supporters for the charity, and increased engagement among the volunteers. In November 2018 I led a film crew to Zambia to direct a [fundraising video to promote the charity's work](https://www.youtube.com/watch?v=_HeWSX-K-Uk). As Donor Development Officer at St. Luke's Hospice I created a donation webpage that enabled supporters to set up a regular direct debit donation online.
 
 #### Motivated self-starter
 
