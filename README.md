@@ -7,13 +7,9 @@ Linguist turned junior full-stack software engineer (proof that I can talk to bo
 | Title | Description | Technologies |
 | --- | --- | --- |
 | RouteAround | --- | --- |
-| --- | --- | --- |
 | PartyDino BnB | --- | --- |
-| --- | --- | --- |
 | Bowling challenge | --- | --- |
-| --- | --- | --- |
 | Rock Paper Scissors | --- | --- |
-| --- | --- | --- |
 
 ## Skills
 
