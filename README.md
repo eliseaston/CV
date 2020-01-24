@@ -7,7 +7,7 @@ Linguist turned junior full-stack software engineer (proof that I can talk to bo
 | Title | Description | Technologies |
 | --- | --- | --- |
 | [RouteAround (front-end)](https://github.com/eliseaston/Route_Around_Front-end) <br> [RouteAround (back-end)](https://github.com/eliseaston/Route_Around) | An app that maps a circular running or walking route, based on the user's current location or chosen start location, and their chosen distance. <br><br> Final group project at Makers. Designed, created and deployed within 2 weeks. <br><br>  https://routearound.herokuapp.com/ | React, Node.js Express, JavaScript, Jasmine, Jest, Travis, Heroku |
-| [Bowling challenge] (https://github.com/eliseaston/bowling-challenge) | A ten-pin bowling scorecard single-page app. The user can input their rolls, and the app calculates their total score for the game. | JavaScript, jQuery, CSS, HTML, Jasmine test framework |
+| [Bowling challenge](https://github.com/eliseaston/bowling-challenge) | A ten-pin bowling scorecard single-page app. The user can input their rolls, and the app calculates their total score for the game.<br><br>Individual challenge project at Makers. Completed in 1 week. | JavaScript, jQuery, CSS, HTML, Jasmine test framework |
 | Rock Paper Scissors | --- | --- |
 
 ## Skills
