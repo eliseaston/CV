@@ -54,7 +54,7 @@ Technologies used:
 #### St Anne's College, Oxford University (2008 to 2012)
 
 - MA (Oxon) in Modern Languages (Spanish), 2;1
-- Academic scholar (translation: as a reward for achieving distinction in first-year exams, I had to wear a bigger and even more uncomfortable gown to wear for all following exams)
+- Academic scholar (translation: as a reward for achieving distinction in first-year exams, I had to wear a bigger and even more uncomfortable gown for all following exams)
 - Modern and medieval linguistics, translation and literature
 
 
